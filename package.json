@@ -1,0 +1,25 @@
+{
+  "name": "mocha-markdown-extended-reporter",
+  "version": "1.0.6",
+  "description": "an extended markdown reporter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcsapo/mocha-markdown-extended-reporter.git"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Gabriel Csapo <gacsapo@paypalcorp.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielcsapo/mocha-markdown-extended-reporter/issues"
+  },
+  "homepage": "https://github.com/gabrielcsapo/mocha-markdown-extended-reporter#readme",
+  "dependencies": {
+    "mocha": "^2.3.4"
+  }
+}
