@@ -1,5 +1,7 @@
 # mocha-markdown-extended-reporter
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gabrielcsapo/mocha-markdown-extended-reporter.svg)](https://greenkeeper.io/)
+
 > extended the base mocha-markdown reporter
 
 [![Npm Version](https://img.shields.io/npm/v/mocha-markdown-extended-reporter.svg)](https://www.npmjs.com/package/mocha-markdown-extended-reporter)
