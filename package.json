@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/gabrielcsapo/mocha-markdown-extended-reporter#readme",
   "dependencies": {
-    "mocha": "^3.4.2"
+    "mocha": "3.4.2"
   }
 }
