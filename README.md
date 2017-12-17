@@ -1,3 +1,5 @@
+> DEPRECATED: THIS WILL NO LONGER BE UNDER DEVELOPMENT
+
 # mocha-markdown-extended-reporter
 
 > 💼 extends the base mocha-markdown reporter
